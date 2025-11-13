@@ -42,7 +42,6 @@ Designed for simplicity, beauty, and emotional connection. 🎶
 |:---------------:|:----------:|:-------------:|
 | ![Mood Screen](screenshots/moodSelection.jpeg) | ![Song List](screenshots/songList.jpeg) | ![Player Screen](screenshots/playscreen.jpeg) |
 
-> Place your screenshots in a folder named `screenshots/` at the root of the project.
 
 ---
 
@@ -52,7 +51,7 @@ To run Moodify locally:
 
 ```bash
 # Clone this repository
-git clone https://github.com/YourUsername/MoodifyApp.git
+git clone https://github.com/RIDHAMPATEL132/Moodify.git
 
 # Open the project in Android Studio
 # Let Gradle sync automatically
