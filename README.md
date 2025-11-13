@@ -42,19 +42,8 @@ Designed for simplicity, beauty, and emotional connection. 🎶
 |:---------------:|:----------:|:-------------:|
 | ![Mood Screen](screenshots/moodSelection.jpeg) | ![Song List](screenshots/songList.jpeg) | ![Player Screen](screenshots/playscreen.jpeg) |
 
+---
+## 👨‍💻 Author
+Developed with ❤️ by [Ridham Patel](https://github.com/RIDHAMPATEL132)
 
 ---
-
-## ⚙️ Installation & Setup
-
-To run Moodify locally:
-
-```bash
-# Clone this repository
-git clone https://github.com/RIDHAMPATEL132/Moodify.git
-
-# Open the project in Android Studio
-# Let Gradle sync automatically
-
-# Run the app
-# Select a device/emulator and press ▶️ Run
