@@ -40,7 +40,7 @@ Designed for simplicity, beauty, and emotional connection. 🎶
 
 | Mood Selection | Song List | Music Player |
 |:---------------:|:----------:|:-------------:|
-| ![Mood Screen](screenshots/moodSelection) | ![Song List](screenshots/song_list.png) | ![Player Screen](screenshots/player_screen.png) |
+| ![Mood Screen](screenshots/moodSelection.jpeg) | ![Song List](screenshots/songList.jpeg) | ![Player Screen](screenshots/playscreen.jpeg) |
 
 > Place your screenshots in a folder named `screenshots/` at the root of the project.
 
